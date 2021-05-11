@@ -9,8 +9,8 @@ Dependency: mswinsck Library<br /><br />
 纯算法实现jpeg编码(zyl910)<br />
 Implementation of JPEG coding with pure algorithm (zyl910)<br /><br />
 
-实现远程桌面,鼠标控制,对话框...<br />
-Remote desktop, mouse control, dialog...<br /><br />
+实现远程桌面,对话框,关机...<br />
+Remote desktop, dialog message,shutdown...<br /><br />
 
 地址:{IP}:31247
 
