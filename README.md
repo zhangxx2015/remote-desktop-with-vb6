@@ -14,3 +14,9 @@ Remote desktop, mouse control, dialog...<br /><br />
 
 地址:{IP}:31247
 
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0001.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0002.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0003.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0004.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0005.png "screenshot")
+![screenshot](https://raw.githubusercontent.com/zhangxx2015/remote-desktop-with-vb6/main/screenshot/0006.png "screenshot")
